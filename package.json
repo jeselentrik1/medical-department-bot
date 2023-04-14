@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "init": "^0.1.2"
+  },
+  "name": "medical-department",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
